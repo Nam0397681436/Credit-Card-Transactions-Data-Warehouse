@@ -6,7 +6,7 @@ Thiết kế và triển khai Data Warehouse phân tích dữ liệu giao dịch
 
 Key Responsibilities:
 
-Chuẩn hóa dữ liệu thô và xây dựng quy trình ETL để load dữ liệu từ nguồn tập tin CSV vào hệ thống kho dữ liệu.
+Chuẩn hóa dữ liệu thô và xây dựng quy trình ETL để load dữ liệu từ nguồn tập tin CSV vào hệ thống kho dữ liệu ( sử dụng database Postgresql).
 
 Thiết kế mô hình dữ liệu star schema với bảng fact_transaction, fact_merchant và các bảng dimension như dim_time, dim_customer, dim_category, dim_merchant, dim_age_group.
 
