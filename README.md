@@ -21,3 +21,9 @@ Triển khai dashboard trong Power BI để thể hiện các insight như: tren
 Mô hình Star-Schema khi load dữ liệu lên POWER BI
 
 ![alt text](image.png)
+
+
+
+Trực quan hóa dữ liệu- tạo dashboard trên POWER BI
+
+![alt text](visualation.png)
